@@ -17,3 +17,7 @@ mkdir node_modules/bmjs-fcpxml/assets
 node index.js
 ```
 
+## generated fcpxml
+
+- [projects.fcpxml](generated/projects.fcpxml)
+
