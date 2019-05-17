@@ -21,3 +21,9 @@ node index.js
 
 - [projects.fcpxml](generated/projects.fcpxml)
 
+## TODO for bmjs-fcpxml
+- remove unneeded resources tag.
+- FxPlug is used ? remove then if i can.
+- fix parse error by current fcpx.
+- create minimal fcpxml.
+
